@@ -1,0 +1,8 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf810
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww10800\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Once the game has started, use the arrow keys to move the ball. The best way to gain height is to click the up key when it hits the ground as it is bouncing upward. Use the left and right arrow keys to move the ball left and right. Put the ball in the net to score points. You have 60 seconds to score as much as possible (the score is a little whacky).}
